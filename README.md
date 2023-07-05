@@ -22,5 +22,3 @@ You should add more dialog
 6. PrintPreviewDialog
 7. PrintDialog
 8. PrintDocument
-
-10. 
