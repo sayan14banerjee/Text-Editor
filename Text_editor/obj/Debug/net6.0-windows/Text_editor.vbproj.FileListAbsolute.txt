@@ -1,0 +1,35 @@
+D:\Work\Self Project\Text Editor\Text_editor\Text_editor\obj\Debug\net6.0-windows\Text_editor.vbproj.AssemblyReference.cache
+D:\Work\Self Project\Text Editor\Text_editor\Text_editor\obj\Debug\net6.0-windows\Text_editor.Form1.resources
+D:\Work\Self Project\Text Editor\Text_editor\Text_editor\obj\Debug\net6.0-windows\Text_editor.vbproj.GenerateResource.cache
+D:\Work\Self Project\Text Editor\Text_editor\Text_editor\obj\Debug\net6.0-windows\Text_editor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Self Project\Text Editor\Text_editor\Text_editor\obj\Debug\net6.0-windows\Text_editor.AssemblyInfoInputs.cache
+D:\Work\Self Project\Text Editor\Text_editor\Text_editor\obj\Debug\net6.0-windows\Text_editor.AssemblyInfo.vb
+D:\Work\Self Project\Text Editor\Text_editor\Text_editor\obj\Debug\net6.0-windows\Text_editor.vbproj.CoreCompileInputs.cache
+D:\Work\Self Project\Text Editor\Text_editor\Text_editor\bin\Debug\net6.0-windows\Text_editor.exe
+D:\Work\Self Project\Text Editor\Text_editor\Text_editor\bin\Debug\net6.0-windows\Text_editor.deps.json
+D:\Work\Self Project\Text Editor\Text_editor\Text_editor\bin\Debug\net6.0-windows\Text_editor.runtimeconfig.json
+D:\Work\Self Project\Text Editor\Text_editor\Text_editor\bin\Debug\net6.0-windows\Text_editor.dll
+D:\Work\Self Project\Text Editor\Text_editor\Text_editor\bin\Debug\net6.0-windows\Text_editor.pdb
+D:\Work\Self Project\Text Editor\Text_editor\Text_editor\obj\Debug\net6.0-windows\Text_editor.dll
+D:\Work\Self Project\Text Editor\Text_editor\Text_editor\obj\Debug\net6.0-windows\refint\Text_editor.dll
+D:\Work\Self Project\Text Editor\Text_editor\Text_editor\obj\Debug\net6.0-windows\Text_editor.pdb
+D:\Work\Self Project\Text Editor\Text_editor\Text_editor\obj\Debug\net6.0-windows\Text_editor.genruntimeconfig.cache
+D:\Work\Self Project\Text Editor\Text_editor\Text_editor\obj\Debug\net6.0-windows\ref\Text_editor.dll
+D:\Work\Self Project\Text_editor\Text_editor\bin\Debug\net6.0-windows\Text_editor.exe
+D:\Work\Self Project\Text_editor\Text_editor\bin\Debug\net6.0-windows\Text_editor.deps.json
+D:\Work\Self Project\Text_editor\Text_editor\bin\Debug\net6.0-windows\Text_editor.runtimeconfig.json
+D:\Work\Self Project\Text_editor\Text_editor\bin\Debug\net6.0-windows\Text_editor.dll
+D:\Work\Self Project\Text_editor\Text_editor\bin\Debug\net6.0-windows\Text_editor.pdb
+D:\Work\Self Project\Text_editor\Text_editor\obj\Debug\net6.0-windows\Text_editor.vbproj.AssemblyReference.cache
+D:\Work\Self Project\Text_editor\Text_editor\obj\Debug\net6.0-windows\Text_editor.Form1.resources
+D:\Work\Self Project\Text_editor\Text_editor\obj\Debug\net6.0-windows\Text_editor.vbproj.GenerateResource.cache
+D:\Work\Self Project\Text_editor\Text_editor\obj\Debug\net6.0-windows\Text_editor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Self Project\Text_editor\Text_editor\obj\Debug\net6.0-windows\Text_editor.AssemblyInfoInputs.cache
+D:\Work\Self Project\Text_editor\Text_editor\obj\Debug\net6.0-windows\Text_editor.AssemblyInfo.vb
+D:\Work\Self Project\Text_editor\Text_editor\obj\Debug\net6.0-windows\Text_editor.vbproj.CoreCompileInputs.cache
+D:\Work\Self Project\Text_editor\Text_editor\obj\Debug\net6.0-windows\Text_editor.dll
+D:\Work\Self Project\Text_editor\Text_editor\obj\Debug\net6.0-windows\refint\Text_editor.dll
+D:\Work\Self Project\Text_editor\Text_editor\obj\Debug\net6.0-windows\Text_editor.pdb
+D:\Work\Self Project\Text_editor\Text_editor\obj\Debug\net6.0-windows\Text_editor.genruntimeconfig.cache
+D:\Work\Self Project\Text_editor\Text_editor\obj\Debug\net6.0-windows\ref\Text_editor.dll
+D:\Work\Self Project\Text_editor\Text_editor\obj\Debug\net6.0-windows\Text_editor.Resources.resources
