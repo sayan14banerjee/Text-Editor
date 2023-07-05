@@ -129,19 +129,19 @@ Partial Class Form1
         ColorToolStripMenuItem.DropDownItems.AddRange(New ToolStripItem() {FrontColorToolStripMenuItem, BackColorToolStripMenuItem})
         ColorToolStripMenuItem.ForeColor = SystemColors.ControlLight
         ColorToolStripMenuItem.Name = "ColorToolStripMenuItem"
-        ColorToolStripMenuItem.Size = New Size(180, 22)
+        ColorToolStripMenuItem.Size = New Size(103, 22)
         ColorToolStripMenuItem.Text = "Color"
         ' 
         ' FrontColorToolStripMenuItem
         ' 
         FrontColorToolStripMenuItem.Name = "FrontColorToolStripMenuItem"
-        FrontColorToolStripMenuItem.Size = New Size(180, 22)
+        FrontColorToolStripMenuItem.Size = New Size(134, 22)
         FrontColorToolStripMenuItem.Text = "Front Color"
         ' 
         ' BackColorToolStripMenuItem
         ' 
         BackColorToolStripMenuItem.Name = "BackColorToolStripMenuItem"
-        BackColorToolStripMenuItem.Size = New Size(180, 22)
+        BackColorToolStripMenuItem.Size = New Size(134, 22)
         BackColorToolStripMenuItem.Text = "Back Color"
         ' 
         ' FontToolStripMenuItem
@@ -149,7 +149,7 @@ Partial Class Form1
         FontToolStripMenuItem.BackColor = SystemColors.ActiveCaptionText
         FontToolStripMenuItem.ForeColor = SystemColors.ControlLight
         FontToolStripMenuItem.Name = "FontToolStripMenuItem"
-        FontToolStripMenuItem.Size = New Size(180, 22)
+        FontToolStripMenuItem.Size = New Size(103, 22)
         FontToolStripMenuItem.Text = "Font"
         ' 
         ' ExitToolStripMenuItem
